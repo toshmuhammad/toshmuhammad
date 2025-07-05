@@ -1,56 +1,33 @@
-<!-- 🌊 Animated SVG background -->
-<div align="center">
-  <img src="https://github.com/platane/platane/raw/master/profile-banner.svg" width="100%" alt="animated banner"/>
-</div>
-
-<!-- ✨ Fancy typing -->
+<!-- 🌐 Gradient banner (ishlaydigan manba) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Assalomu+alaykum!+Men+Toshmuhammad!;Frontend+developer+from+Uzbekistan.;React,+Tailwind,+Shadcn+fanati.;Xush+kelibsiz+profilimga!+🤝" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,100:ff6a00&height=200&section=header&text=Toshmuhammad%20Rafiqov&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20from%20Uzbekistan&descAlign=50&descAlignY=65" />
 </p>
 
-<!-- 🌟 Colorful badges -->
+<!-- 👨‍💻 Hacker-style GIF -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-%23000.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600" alt="Coding Hacker GIF" />
+</p>
+
+<!-- ⌨️ Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Assalomu+alaykum!+Men+Toshmuhammad.;Frontend+Developer+%7C+React%2C+Tailwind%2C+TypeScript;Xush+kelibsiz+mening+GitHub+profilimga!" />
 </p>
 
 ---
 
-## 🧠 Men kimman?
-
-- 💻 Har kuni o‘rganaman, kod yozaman, yarataman
-- 🎨 UI/UX dizaynga qiziqaman
-- 🛠 Frontend: React, Tailwind, Shadcn UI
-- 🚀 Backend bilan ishlayman: API (json-api.uz)
-- 🎯 Maqsad: katta loyihalar yaratish
-
----
-
-## 🎯 Maqsadlarim
-
-- [x] Portfolio sayt yaratish
-- [x] React + Shadcn UI to‘liq o‘zlashtirish
-- [ ] eCommerce ilova qilish
-- [ ] 100+ component kutubxona yaratish
-
----
-
-## ⚡ Texnologiyalar
+## 🌈 Texnologiyalar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,shadcn,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,shadcn,git,github&perline=7" />
 </p>
 
 ---
 
-## 📊 Statistikam
+## 📊 GitHub Statistikam
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshmuhammad&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshmuhammad&layout=compact&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toshmuhammad&show_icons=true&theme=merko&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshmuhammad&layout=compact&theme=merko&border_radius=10" width="48%" />
 </p>
 
 ---
@@ -58,41 +35,40 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toshmuhammad&theme=dracula&no-frame=true&column=6&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=toshmuhammad&theme=discord&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 🐍 Jonli Contribution (snake)
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/toshmuhammad/toshmuhammad/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/toshmuhammad/toshmuhammad/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🎮 Fun Facts
+
+<details>
+  <summary>🎧 Qanday musiqa tinglayman kod yozayotganda?</summary>
+  Chill lo-fi beat, hacker instrumental, retro synthwave
+</details>
+
+<details>
+  <summary>💡 Nega har kuni GitHubga kiraman?</summary>
+  O‘rganish, yozish, push qilish, progressni ko‘rish!
+</details>
 
 ---
 
 ## 📬 Aloqa
 
 <p align="center">
-  <a href="https://t.me/toshmuhammad_rafiqov"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/toshmuhammad_rafiqov">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
----
-
-## 💬 Fun Facts
-
-<details>
-<summary>🎧 Kod yozayotganda nimani tinglayman?</summary>
-Lo-fi, instrumental, sometimes game OST 🎮
-</details>
-
-<details>
-<summary>📚 Kod yozmagan paytimda nima qilaman?</summary>
-UI dizayn, GitHub profilingni bezash, figma chizish
-</details>
-
-<details>
-<summary>🧠 Eng yoqtirgan quote</summary>
-“Har bir komponent o‘zini ifodalaydi, har bir satr mening iqtidorim.” – Toshmuhammad
-</details>

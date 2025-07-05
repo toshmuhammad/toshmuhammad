@@ -1,29 +1,46 @@
-<!-- 🌐 Gradient banner (ishlaydigan manba) -->
+<!-- 🌊 Gradient header banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,100:ff6a00&height=200&section=header&text=Toshmuhammad%20Rafiqov&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20from%20Uzbekistan&descAlign=50&descAlignY=65" />
 </p>
 
 <!-- 👨‍💻 Hacker-style GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600" alt="Coding Hacker GIF" />
+  <img src="https://raw.githubusercontent.com/Toshmuhammad/hacker-gifs/main/matrix.gif" width="800" alt="Matrix hacker vibe" />
 </p>
 
-<!-- ⌨️ Typing Effect -->
+<!-- ⌨️ Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Assalomu+alaykum!+Men+Toshmuhammad.;Frontend+Developer+%7C+React%2C+Tailwind%2C+TypeScript;Xush+kelibsiz+mening+GitHub+profilimga!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&center=true&width=700&lines=Salom+men+Toshmuhammad!;Hack+the+matrix.;Frontend+warrior" />
+</p>
+
+<!-- 🌈 Gradient badge style (glitch style simulated) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-%23000.svg?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌈 Texnologiyalar
+## 👨‍💻 About Me
+
+- 💻 Frontend Developer: React, Tailwind, Shadcn UI
+- 🚀 Working with APIs: json-api.uz
+- 🧠 Learning daily and building cool UIs
+- 🎯 Dream: Build stunning portfolio and real eCommerce apps
+
+---
+
+## 🧠 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,shadcn,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,shadcn,git,github,vscode&perline=7" />
 </p>
 
 ---
 
-## 📊 GitHub Statistikam
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toshmuhammad&show_icons=true&theme=merko&border_radius=10" width="48%" />
@@ -32,7 +49,7 @@
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=toshmuhammad&theme=discord&no-frame=true&margin-w=10&margin-h=10" />

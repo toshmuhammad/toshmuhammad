@@ -9,6 +9,7 @@
 </p>
 
 ---
+![pQT0l](https://github.com/user-attachments/assets/7aec3496-135a-4059-a588-34f5bff93d5a)
 
 ## 💻 Hacker Style Terminal Animatsiyalar
 

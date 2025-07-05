@@ -3,19 +3,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,100:ff6a00&height=200&section=header&text=Toshmuhammad%20Rafiqov&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20from%20Uzbekistan&descAlign=50&descAlignY=65" />
 </p>
 
-<!-- 👨‍💻 Hacker-style GIF 1: Matrix terminal green rain -->
+<!-- 🌀 Hacker-style GIF 1: Matrix terminal rain -->
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="800" alt="Matrix terminal" />
 </p>
 
-<!-- 👨‍💻 Hacker-style GIF 2: Terminal ASCII glitch -->
+<!-- ⚡ Hacker-style GIF 2: Glitch typing effect -->
 <p align="center">
-  <img src="https://media.tenor.com/4WihcUQYJngAAAAC/hacker-typing.gif" width="800" alt="ASCII glitch effect" />
+  <img src="https://media.tenor.com/4WihcUQYJngAAAAC/hacker-typing.gif" width="800" alt="Glitch typing" />
 </p>
 
-<!-- 👨‍💻 Hacker-style GIF 3: Screen code hacker vibe -->
+<!-- 💻 Hacker-style GIF 3: Real-time terminal screen -->
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="800" alt="Hacker screen coding" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="800" alt="Terminal screen" />
+</p>
+
+<!-- 🖥️ Hacker-style GIF 4: ASCII hacker vibe -->
+<p align="center">
+  <img src="https://media.tenor.com/lo1zn0HqoWIAAAAC/hackerman-hacking.gif" width="800" alt="ASCII hacker" />
 </p>
 
 <!-- ⌨️ Typing effect -->

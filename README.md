@@ -1,59 +1,82 @@
-<!-- Hacker-style GIF -->
+<!-- 🧠 Hacker-style GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Hacker coding" />
 </p>
 
-<!-- Profil banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc4a1a,100:f7b733&height=200&section=header&text=Toshmuhammad%20Rafiqov&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20%26%20Tailwind%20Fan&descAlignY=55&animation=fadeIn" />
+<!-- 🎨 Stylish banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Toshmuhammad%20Rafiqov&fontColor=fff&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Tailwind%20Fan&descAlignY=60&animation=fadeIn" />
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Salom%2C+men+Toshmuhammad+Rafiqov;Frontend+developer;React%2C+Tailwind%2C+Shadcn+fanati;API+orqali+loyihalar+yarataman;Xush+kelibsiz+GitHub'imga!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Salom%2C+men+Toshmuhammad+Rafiqov!;Frontend+Developer+%7C+React+%7C+Tailwind+%7C+TypeScript;Dasturlash+bu+mening+havasim+emas%2C+hayotim!;Xush+kelibsiz+GitHub+profilimga!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 Men haqimda
+## 🧑‍💻 Men haqimda
 
-- 🎓 TATU yo‘nalishiga tayyorlanmoqdaman  
-- 💻 Har kuni kod yozaman va o‘rganaman  
-- ⚡ React + TypeScript + Tailwind CSS bilan loyihalar qilaman  
-- 🔌 API bilan ishlashni yaxshi ko‘raman (`json-api.uz`)  
-- 🎯 Maqsadim – kuchli frontend dasturchi bo‘lish
-
----
-
-### 🛠️ Texnologiyalar
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Shadcn](https://img.shields.io/badge/Shadcn-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- 💼 Frontend enthusiast – React, TypeScript, Tailwind, Shadcn UI
+- 🎓 TATU yo‘nalishiga tayyorlanmoqda
+- 🌐 json-api.uz bilan ko‘p API loyihalar qilgan
+- 🎯 Har kuni o‘rganaman, ishlab chiqaman, test qilaman
+- ✨ Hayotimdagi motto: "Yaxshi kod – jim turadi, yomon kod – qichqiradi"
 
 ---
 
-### 📊 GitHub Statistika
+## 🚀 Texnologiyalar va asboblar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toshmuhammad&show_icons=true&theme=radical&border_radius=15" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshmuhammad&layout=compact&theme=radical&border_radius=15" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,shadcn,nodejs,git,github,vscode,figma&perline=7" />
 </p>
 
 ---
 
-### 🌐 Ijtimoiy tarmoqlar
+## 📈 GitHub Statistikam
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toshmuhammad_rafiqov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toshmuhammad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshmuhammad&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
+</p>
 
 ---
 
-### 🐍 Snake Contribution (optional, ishlatish uchun sozlash kerak)
+## 🏆 GitHub Mukofotlarim
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=toshmuhammad&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 😎 Qiziqarli faktlar
+
+- 🔒 Terminalda ishlashni yoqtiraman  
+- 🧪 Kodimni har doim test qilaman  
+- 🌙 Kechasi kod yozish – mening meditatsiyam  
+- 🎧 Kod yozayotganda faqat chill/lo-fi tinglayman  
+- 💡 Har bir loyiha men uchun sarguzasht
+
+---
+
+## 📬 Bog‘lanish
+
+<p align="center">
+  <a href="https://t.me/toshmuhammad_rafiqov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎯 Maqsadlarim
+
+- [x] React, Tailwind, Shadcn o‘zlashtirish  
+- [ ] Portfolio sayt yaratish  
+- [ ] Real API bilan ishlaydigan eCommerce app  
+- [ ] GitHub profilimni yulduzli qiladigan darajada kuchaytirish ✨
+
+---
+
+## 🐍 Snake Contribution (animatsiya)
 
 <!--
 ![Snake animation](https://github.com/toshmuhammad/toshmuhammad/blob/output/github-contribution-grid-snake.svg)
@@ -61,7 +84,8 @@
 
 ---
 
-### ✅ So‘z oxiri
+## 💬 Fikr oxiri
 
-> "Har kuni oz bo‘lsa ham kod yoz – natijasi ertaga chiqadi."
+> “Kodni chiroyli yozish bu estetikadan boshlanadi.”  
+> – Toshmuhammad Rafiqov
 
